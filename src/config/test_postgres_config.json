@@ -1,0 +1,9 @@
+{
+  "database_type" : "postgres",
+  "database_url" : "jdbc:postgresql://127.0.0.1:5432/student",
+  "username" : "macbook",
+  "password" : "612713tlx",
+  "upload_code" : "MY_UPLOAD_CODE",
+  "upload_url" : "http://localhost:8000/new_result/",
+  "workload_name" : "workload_name"
+}

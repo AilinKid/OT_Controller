@@ -1,0 +1,106 @@
+错误——缺少controller的配置文件
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：/res
+Error while collecting DB parameters: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：/res
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：/res
+Error while collecting DB parameters: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：/res
+Error while collecting DB parameters: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：/res
+Error while collecting DB parameters: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：/res
+Error while collecting DB parameters: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：/res
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：/res
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：/res
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：/res
+Error while collecting DB parameters: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+查询之前的第一次连接
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：/res
+查询之前的第一次连接
+Failed to produce output files
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：/res
+查询之前的第一次连接
+Failed to produce output files
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：/res
+查询之前的第一次连接
+Failed to produce output files
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：res
+查询之前的第一次连接
+开始实验...
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：res
+查询之前的第一次连接
+开始实验...
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：res
+查询之前的第一次连接
+开始实验...
+观察阶段的时间被设置为：200/秒。
+结果输出目录为：src/res
+查询之前的第一次连接
+开始实验...
+结束实验...
+Failed to produce output files
+观察阶段的时间被设置为：5/秒。
+结果输出目录为：src/res
+查询之前的第一次连接
+开始实验...
+结束实验...
+workload执行完之后的第二次收集...
+结束实验...
+Failed to produce output files
+结束实验...
+Failed to produce output files
+结束实验...
+workload执行完之后的第二次收集...
+观察阶段的时间被设置为：5/秒。
+结果输出目录为：src/res
+查询之前的第一次连接
+开始实验...
+结束实验...
+workload执行完之后的第二次收集...
+观察阶段的时间被设置为：5/秒。
+结果输出目录为：src/res
+查询之前的第一次连接
+开始实验...
+结束实验...
+workload执行完之后的第二次收集...
+I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://localhost:8000: src/res/summary.json (No such file or directory)
+Retrying request to {}->http://localhost:8000
+I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://localhost:8000: src/res/summary.json (No such file or directory)
+Retrying request to {}->http://localhost:8000
+I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://localhost:8000: src/res/summary.json (No such file or directory)
+Retrying request to {}->http://localhost:8000
+观察阶段的时间被设置为：5/秒。
+结果输出目录为：src/res
+查询之前的第一次连接
+开始实验...
+结束实验...
+workload执行完之后的第二次收集...
+观察阶段的时间被设置为：5/秒。
+结果输出目录为：src/res
+查询之前的第一次连接
+开始实验...
+结束实验...
+workload执行完之后的第二次收集...
+观察阶段的时间被设置为：5/秒。
+结果输出目录为：src/res
+查询之前的第一次连接
+开始实验...
+结束实验...
+workload执行完之后的第二次收集...
